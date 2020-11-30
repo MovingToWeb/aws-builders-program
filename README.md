@@ -1,5 +1,5 @@
 # AWS Community Builders Program
-List of resources/contributions to AWS Community
+List of resources/contributions to AWS Community from Nov 2020
 - [Youtube](#youtube)
 
 ## Youtube
